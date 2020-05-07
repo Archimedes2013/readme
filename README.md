@@ -3,7 +3,7 @@
 Watermarks often consist of a logo being overlaid onto an image. There exist several algorithmic techniques to approach watermark removal. Our project will explore a generative-adversarial based approach, that requires no input other than an image with a watermark.
 
 <br/>
-## Dataset
+### Dataset
 
 We will use the following datasets:
 __Places365__: [google drive](http://places2.csail.mit.edu/download.html)
