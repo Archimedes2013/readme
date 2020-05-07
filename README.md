@@ -18,13 +18,9 @@ __celebA-HQ__: [website]( https://drive.google.com/drive/folders/0B4qLcYyJmiz0TX
 We plan to collect 50 to 100 categories of watermarks in different patterns(e.g. logos of famous brands or organizations).
 
 
-<br/>
 ## Method
 
 The method involes two techniques: a FCN-based approach for the identification of watermarks in the input and a cGANbased approach for filling out the blanks.
-
-
-
 
 
 ## Evaluation
@@ -33,7 +29,7 @@ __PSNR__(peak signal-to-noise ratio)
 
 __SSIM__(structural similarity index)
 
-<br/>
+
 ## Experiments
 __Analysis of loss functions__
 __Evaluation of discriminator__
@@ -44,6 +40,6 @@ __Comparison with state-of-the-art__
 K.H.W. Stolle, Xiao. Liu
 
 
-<br/>
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
