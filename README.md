@@ -3,8 +3,9 @@
 Watermarks often consist of a logo being overlaid onto an image. There exist several algorithmic techniques to approach watermark removal. Our project will explore a generative-adversarial based approach, that requires no input other than an image with a watermark.
 
 
-&nbsp
-### Dataset
+
+
+## Dataset
 
 We will use the following datasets:
 
@@ -24,10 +25,12 @@ The method involes two techniques: a FCN-based approach for the identification o
 
 
 
-<br/>
+
+
 ## Evaluation
 
 __PSNR__(peak signal-to-noise ratio)
+
 __SSIM__(structural similarity index)
 
 <br/>
