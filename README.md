@@ -39,7 +39,7 @@ __Analysis of loss functions__
 __Evaluation of discriminator__
 __Comparison with state-of-the-art__
 
-<br/>
+##     
 ## Authors
 K.H.W. Stolle, Xiao. Liu
 
